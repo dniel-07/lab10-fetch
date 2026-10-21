@@ -1,4 +1,5 @@
 
+// Tarea: mostrar publicaciones del usuario 1
 async function mostrarPosts() {
     const lista = document.querySelector("#posts");
   
